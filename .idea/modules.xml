@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ParImpar_PositivoNegativo/ParImpar_PositivoNegativo.iml" filepath="$PROJECT_DIR$/ParImpar_PositivoNegativo/ParImpar_PositivoNegativo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/areaFigurasGeometricas/areaFigurasGeometricas.iml" filepath="$PROJECT_DIR$/areaFigurasGeometricas/areaFigurasGeometricas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/massacorporal/areasFigurasGeometricas/areasFigurasGeometricas.iml" filepath="$PROJECT_DIR$/massacorporal/areasFigurasGeometricas/areasFigurasGeometricas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aumentoSalario/aumentoSalario.iml" filepath="$PROJECT_DIR$/aumentoSalario/aumentoSalario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculoSoma/calculoSoma.iml" filepath="$PROJECT_DIR$/calculoSoma/calculoSoma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cem_a_um/cem_a_um.iml" filepath="$PROJECT_DIR$/cem_a_um/cem_a_um.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intervaloNumerosImpares/intervaloNumerosImpares.iml" filepath="$PROJECT_DIR$/intervaloNumerosImpares/intervaloNumerosImpares.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intervaloNumerosPares/intervaloNumerosPares.iml" filepath="$PROJECT_DIR$/intervaloNumerosPares/intervaloNumerosPares.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maiorMenorIntermediario/maiorMenorIntermediario.iml" filepath="$PROJECT_DIR$/maiorMenorIntermediario/maiorMenorIntermediario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/massacorporal/massacorporal.iml" filepath="$PROJECT_DIR$/massacorporal/massacorporal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mediaAluno/mediaAluno.iml" filepath="$PROJECT_DIR$/mediaAluno/mediaAluno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/novoExame/novoExame.iml" filepath="$PROJECT_DIR$/novoExame/novoExame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/numerosImpares/numerosImpares.iml" filepath="$PROJECT_DIR$/numerosImpares/numerosImpares.iml" />
+      <module fileurl="file://$PROJECT_DIR$/numerosPares/numerosPares.iml" filepath="$PROJECT_DIR$/numerosPares/numerosPares.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ordemCrescente/ordemCrescente.iml" filepath="$PROJECT_DIR$/ordemCrescente/ordemCrescente.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ordemDecrescente/ordemDecrescente.iml" filepath="$PROJECT_DIR$/ordemDecrescente/ordemDecrescente.iml" />
+      <module fileurl="file://$PROJECT_DIR$/salarioAumento/salarioAumento.iml" filepath="$PROJECT_DIR$/salarioAumento/salarioAumento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/saudacoesAutomatizada/saudacoesAutomatizada.iml" filepath="$PROJECT_DIR$/saudacoesAutomatizada/saudacoesAutomatizada.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/studying-java.iml" filepath="$PROJECT_DIR$/.idea/studying-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/um_a_cem/um_a_cem.iml" filepath="$PROJECT_DIR$/um_a_cem/um_a_cem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vocalouConsoante/vogalouConsoante.iml" filepath="$PROJECT_DIR$/vocalouConsoante/vogalouConsoante.iml" />
+    </modules>
+  </component>
+</project>
